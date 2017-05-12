@@ -23,3 +23,8 @@ private final static int colun = 3;//列数
 
 
 ### 3.效果预览 
+![](https://github.com/que123567/LockVIew/blob/master/app/src/main/res/drawable/state_error.png)
+
+![](https://github.com/que123567/LockVIew/blob/master/app/src/main/res/drawable/state_normal.png)
+
+![](https://github.com/que123567/LockVIew/blob/master/app/src/main/res/drawable/state_wrongpassward.png)
